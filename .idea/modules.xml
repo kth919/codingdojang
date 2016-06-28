@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingdojang.iml" filepath="$PROJECT_DIR$/.idea/modules/codingdojang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingdojang_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codingdojang_main.iml" group="codingdojang" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codingdojang_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codingdojang_test.iml" group="codingdojang" />
+    </modules>
+  </component>
+</project>
